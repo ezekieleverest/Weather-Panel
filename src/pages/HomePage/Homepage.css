@@ -1,0 +1,10 @@
+/* .homepage {
+    text-align: center
+} */
+.title {
+    margin-top: 4px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 55px;
+    font-family:"Karla", "Montserrat", sans-serif
+}
